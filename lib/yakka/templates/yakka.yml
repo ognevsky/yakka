@@ -1,0 +1,9 @@
+rules:
+  home:
+    - "github.com"
+    - "37signals.com"
+
+
+  work:
+    - "facebook.com"
+    - "youtube.com"
