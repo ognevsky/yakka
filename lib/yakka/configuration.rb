@@ -6,7 +6,7 @@ module Yakka
     
     def initialize
       if ! File.exists?(File.expand_path("~/.yakka"))
-        puts "[Initializing] ".color(:red) + "Can not be done. You should run `yakka install`"
+        puts "[Initializing] ".color(:red) + "Can not be done. You should run `yakka install` command first."
         exit 0
       end
       
