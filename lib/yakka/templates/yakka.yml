@@ -1,9 +1,11 @@
 rules:
   home:
-    - "github.com"
-    - "37signals.com"
+    - "basecamp.com"
+    - "campfire.com"
 
 
   work:
     - "facebook.com"
     - "youtube.com"
+    - "reddit.com"
+    - "digg.com"
