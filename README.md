@@ -21,7 +21,7 @@ This gem was built on top of [ghost](https://github.com/bjeanes/ghost).
      $ yakka install
      # yakka i
 
-This command will create config file `~/.yakka`. This is common YAML-file, feel free to edit this.
+This command will create `~/.yakka` config file. This is common YAML-file, feel free to edit this.
 
 ### Rules listing
 
