@@ -28,7 +28,7 @@ This command will create config file `~/.yakka`. This is common YAML-file, feel 
     $ yakka list
     # yakka l
 
-This will list all avalilable rules within your `~/.yakka` file.
+This will list all available rules within your `~/.yakka` file.
 
 ### Enable rule
 
