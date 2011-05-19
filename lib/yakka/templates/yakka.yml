@@ -1,8 +1,7 @@
 rules:
   home:
-    - "basecamp.com"
-    - "campfire.com"
-
+    - "basecamphq.com"
+    - "campfirenow.com"
 
   work:
     - "facebook.com"
